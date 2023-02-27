@@ -1,0 +1,19 @@
+\babel@toc {french}{}\relax 
+\contentsline {section}{Introduction}{2}{Doc-Start}%
+\contentsline {section}{\numberline {1}Algorithmes Naïf et de Karatsuba}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Implémentation}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Comparaison - Naïf/Karatsuba}{3}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Fast Fourier Transform (FFT)}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Multiplication de polynômes par évaluation-interpolation}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Évalution d'un polynôme (DFT)}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Implémentation optimisée de la FFT sur le corps $\mathbb {Z}/p\mathbb {Z}$}{6}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Utilisation des unsigned int (Uint) et choix de p}{6}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Opérations modulo p}{6}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Optimisation de la DFT}{7}{subsubsection.2.3.3}%
+\contentsline {section}{\numberline {3}Implémentation de la vectorisation dans la FFT avec AVX2}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Opérations modulo p avec AVX2}{9}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Comparaison de temps des opérations avec et sans AVX2}{10}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Implémentation dans la DFT}{10}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Multiplication des polynômes par FFT}{12}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Améliorations}{13}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Temps Finaux}{15}{section.4}%

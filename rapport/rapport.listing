@@ -1,0 +1,26 @@
+void vect_mod_add_sub_eval(Uint *res_add, Uint *res_sub, Uint *tab1,
+													 Uint *tab2) {
+    __m256i x, result;
+    // chargement du tableau avec que des p
+    __m256i p = _mm256_set1_epi32(NB_P);
+    // chargement de 8 cases successives dans tab1
+    __m256i a = _mm256_loadu_si256((__m256i *) tab1);
+    // chargement de 8 cases successives dans tab2
+    __m256i b = _mm256_loadu_si256((__m256i *) tab2);
+
+    // addition modulo p
+    // x = a + b
+    x = _mm256_add_epi32(a, b);
+    // min_pos(x, x - p) = (a+b)%p
+    result = _mm256_min_epu32(x, _mm256_sub_epi32(x, p));
+    // stockage du resultat dans res_add
+    _mm256_storeu_si256((__m256i *) res_add, result);
+
+    // soustraction modulo p
+    // x = a - b
+    x = _mm256_sub_epi32(a, b);
+    // min_pos(x, x + p) = (a-b)%p
+    result = _mm256_min_epu32(x, _mm256_add_epi32(x, p));
+    // stockage du resultat dans res_sub
+    _mm256_storeu_si256((__m256i *) res_sub, result);
+}

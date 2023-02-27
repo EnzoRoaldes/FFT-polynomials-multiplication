@@ -1,0 +1,1291 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.7)  11 JUL 2022 22:02
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./rapport.tex
+(rapport.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks17
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2022/02/26 3.73 The Babel package
+\babel@savecnt=\count196
+\U@D=\dimen147
+\l@unhyphenated=\language79
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count197
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french.l
+df
+Language: french 2021/07/20 v3.5m French support from the babel system
+Package babel Info: Hyphen rules for 'acadian' set to \l@french
+(babel)             (\language22). Reported on input line 91.
+Package babel Info: Hyphen rules for 'canadien' set to \l@french
+(babel)             (\language22). Reported on input line 92.
+\FB@nonchar=\count198
+Package babel Info: Making : an active character on input line 430.
+Package babel Info: Making ; an active character on input line 431.
+Package babel Info: Making ! an active character on input line 432.
+Package babel Info: Making ? an active character on input line 433.
+\FBguill@level=\count199
+\FBold@everypar=\toks18
+\FB@Mht=\dimen148
+\mc@charclass=\count266
+\mc@charfam=\count267
+\mc@charslot=\count268
+\std@mcc=\count269
+\dec@mcc=\count270
+\listindentFB=\dimen149
+\descindentFB=\dimen150
+\labelindentFB=\dimen151
+\labelwidthFB=\dimen152
+\leftmarginFB=\dimen153
+\parindentFFN=\dimen154
+\FBfnindent=\dimen155
+))
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/libertine\libertine.sty
+Package: libertine 2020/03/26 (Bob Tennent) Supports Libertine and Biolinum fon
+ts for all LaTeX engines.
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+)
+\XKV@depth=\count271
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+LaTeX Info: Redefining \oldstylenums on input line 484.
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/libertine\LinLibertine_
+I.tex))
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen156
+\Gin@req@width=\dimen157
+) (C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks21
+\inpenc@posthook=\toks22
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+) (C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen158
+\Hy@linkcounter=\count272
+\Hy@pagecounter=\count273
+ (C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count274
+ (C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4137.
+Package hyperref Info: Link nesting OFF on input line 4142.
+Package hyperref Info: Hyper index ON on input line 4145.
+Package hyperref Info: Plain pages OFF on input line 4152.
+Package hyperref Info: Backreferencing OFF on input line 4157.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4390.
+\c@Hy@tempcnt=\count275
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4749.
+\XeTeXLinkMargin=\dimen159
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count276
+\Field@Width=\dimen160
+\Fld@charsize=\dimen161
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+LaTeX Info: Redefining \ref on input line 6097.
+LaTeX Info: Redefining \pageref on input line 6101.
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count277
+\c@Item=\count278
+\c@Hfootnote=\count279
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count280
+\c@bookmark@seq@number=\count281
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip49
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks23
+\thm@bodyfont=\toks24
+\thm@headfont=\toks25
+\thm@notefont=\toks26
+\thm@headpunct=\toks27
+\thm@preskip=\skip50
+\thm@postskip=\skip51
+\thm@headsep=\skip52
+\dth@everypar=\toks28
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
+Package: tcolorbox 2022/01/07 version 5.0.2 text color boxes
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
+\pgfutil@everybye=\toks29
+\pgfutil@tempdima=\dimen162
+\pgfutil@tempdimb=\dimen163
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common-lists.tex))
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
+\pgfutil@abb=\box50
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks30
+\pgfkeys@temptoks=\toks31
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+filtered.code.tex
+\pgfkeys@tmptoks=\toks32
+))
+\pgf@x=\dimen164
+\pgf@y=\dimen165
+\pgf@xa=\dimen166
+\pgf@ya=\dimen167
+\pgf@xb=\dimen168
+\pgf@yb=\dimen169
+\pgf@xc=\dimen170
+\pgf@yc=\dimen171
+\pgf@xd=\dimen172
+\pgf@yd=\dimen173
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count282
+\c@pgf@countb=\count283
+\c@pgf@countc=\count284
+\c@pgf@countd=\count285
+\t@pgf@toka=\toks33
+\t@pgf@tokb=\toks34
+\t@pgf@tokc=\toks35
+\pgf@sys@id@count=\count286
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count287
+\pgfsyssoftpath@bigbuffer@items=\count288
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+LaTeX Info: Redefining \color on input line 711.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
+\pgfmath@dimen=\dimen174
+\pgfmath@count=\count289
+\pgfmath@box=\box51
+\pgfmath@toks=\toks36
+\pgfmath@stack@operand=\toks37
+\pgfmath@stack@operation=\toks38
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)))
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
+\c@pgfmathroundto@lastzeros=\count290
+))
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen175
+\pgf@picmaxx=\dimen176
+\pgf@picminy=\dimen177
+\pgf@picmaxy=\dimen178
+\pgf@pathminx=\dimen179
+\pgf@pathmaxx=\dimen180
+\pgf@pathminy=\dimen181
+\pgf@pathmaxy=\dimen182
+\pgf@xx=\dimen183
+\pgf@xy=\dimen184
+\pgf@yx=\dimen185
+\pgf@yy=\dimen186
+\pgf@zx=\dimen187
+\pgf@zy=\dimen188
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen189
+\pgf@path@lasty=\dimen190
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen191
+\pgf@shorten@start@additional=\dimen192
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box52
+\pgf@hbox=\box53
+\pgf@layerbox@main=\box54
+\pgf@picture@serial@count=\count291
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen193
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen194
+\pgf@pt@y=\dimen195
+\pgf@pt@temp=\dimen196
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen197
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen198
+\pgf@sys@shading@range@num=\count292
+\pgf@shadingcount=\count293
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box55
+))
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box56
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen199
+\pgf@nodesepend=\dimen256
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks39
+\verbatim@line=\toks40
+\verbatim@in@stream=\read4
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.s
+ty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\@envbody=\toks41
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count294
+)
+\tcb@titlebox=\box57
+\tcb@upperbox=\box58
+\tcb@lowerbox=\box59
+\tcb@phantombox=\box60
+\c@tcbbreakpart=\count295
+\c@tcblayer=\count296
+\c@tcolorbox@number=\count297
+\tcb@temp=\box61
+\tcb@temp=\box62
+\tcb@temp=\box63
+\tcb@temp=\box64
+) (C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip53
+\enit@outerparindent=\dimen257
+\enit@toks=\toks42
+\enit@inbox=\box65
+\enit@count@id=\count298
+\enitdp@description=\count299
+) (C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks43
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/preprint\fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip54
+) (C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box66
+\beforetitleunit=\skip55
+\aftertitleunit=\skip56
+\ttl@plus=\dimen258
+\ttl@minus=\dimen259
+\ttl@toksa=\toks44
+\titlewidth=\dimen260
+\titlewidthlast=\dimen261
+\titlewidthfirst=\dimen262
+) (C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count300
+\lst@gtempboxa=\box67
+\lst@token=\toks45
+\lst@length=\count301
+\lst@currlwidth=\dimen263
+\lst@column=\count302
+\lst@pos=\count303
+\lst@lostspace=\dimen264
+\lst@width=\dimen265
+\lst@newlines=\count304
+\lst@lineno=\count305
+\lst@maxwidth=\dimen266
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count306
+\lst@skipnumbers=\count307
+\lst@framebox=\box68
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/a4wide\a4wide.sty
+Package: a4wide 1994/08/30
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/ntgclass\a4.sty
+Package: a4 2020/02/18 v1.2g A4 based page layout
+))
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen267
+\captionmargin=\dimen268
+\caption@leftmargin=\dimen269
+\caption@rightmargin=\dimen270
+\caption@width=\dimen271
+\caption@indent=\dimen272
+\caption@parindent=\dimen273
+\caption@hangindent=\dimen274
+Package caption Info: Standard document class detected.
+Package caption Info: french babel package is loaded.
+)
+\c@caption@flags=\count308
+\c@continuedfloat=\count309
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistings.c
+ode.tex
+Library (tcolorbox): 'tcblistings.code.tex' version '5.0.2'
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistingsco
+re.code.tex
+Library (tcolorbox): 'tcblistingscore.code.tex' version '5.0.2'
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbprocessing
+.code.tex
+Library (tcolorbox): 'tcbprocessing.code.tex' version '5.0.2'
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/tools\shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+))
+\c@tcblisting=\count310
+))
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskins.code
+.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '5.0.2'
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex)
+\pgffor@iter=\dimen275
+\pgffor@skip=\dimen276
+\pgffor@stack=\toks46
+\pgffor@toks=\toks47
+))
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count311
+\pgfplotmarksize=\dimen277
+)
+\tikz@lastx=\dimen278
+\tikz@lasty=\dimen279
+\tikz@lastxsaved=\dimen280
+\tikz@lastysaved=\dimen281
+\tikz@lastmovetox=\dimen282
+\tikz@lastmovetoy=\dimen283
+\tikzleveldistance=\dimen284
+\tikzsiblingdistance=\dimen285
+\tikz@figbox=\box69
+\tikz@figbox@bg=\box70
+\tikz@tempbox=\box71
+\tikz@tempbox@bg=\box72
+\tikztreelevel=\count312
+\tikznumberofchildren=\count313
+\tikznumberofcurrentchild=\count314
+\tikz@fig@count=\count315
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count316
+\pgfmatrixcurrentcolumn=\count317
+\pgf@matrix@numberofcolumns=\count318
+)
+\tikz@expandcount=\count319
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+\tcb@waterbox=\box73
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskinsjigsa
+w.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '5.0.2'
+))
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbbreakable.
+code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '5.0.2'
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/oberdiek\pdfcol.sty
+Package: pdfcol 2019/12/29 v1.6 Handle new color stacks for pdfTeX (HO)
+)
+Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
+\tcb@testbox=\box74
+\tcb@totalupperbox=\box75
+\tcb@totallowerbox=\box76
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 85.
+LaTeX Font Info:    Trying to load font information for T1+LinuxLibertineT-TLF 
+on input line 89.
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/libertine\t1linuxlibert
+inet-tlf.fd
+File: T1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Li
+nuxLibertineT-TLF.
+)
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 89.
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count320
+\l__pdf_internal_box=\box77
+) (rapport.aux)
+\openout1 = `rapport.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=460.72124pt
+* \textheight=621.0pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=0.0pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=54.2025pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \degres on input line 89.
+Package french.ldf Info: Setting StandardItemizeEnv=true for
+(french.ldf)             compatibility with enumitem package,
+(french.ldf)             reported on input line 89.
+Package french.ldf Info: Setting StandardEnumerateEnv=true for
+(french.ldf)             compatibility with enumitem package,
+(french.ldf)             reported on input line 89.
+LaTeX Info: Redefining \up on input line 89.
+\c@mv@tabular=\count321
+\c@mv@boldtabular=\count322
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count323
+\scratchdimen=\dimen286
+\scratchbox=\box78
+\nofMPsegments=\count324
+\nofMParguments=\count325
+\everyMPshowfont=\toks48
+\MPscratchCnt=\count326
+\MPscratchDim=\dimen287
+\MPnumerator=\count327
+\makeMPintoPDFobject=\count328
+\everyMPtoPDFconversion=\toks49
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package hyperref Info: Link coloring ON on input line 89.
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count329
+)
+LaTeX Info: Redefining \ref on input line 89.
+LaTeX Info: Redefining \pageref on input line 89.
+LaTeX Info: Redefining \nameref on input line 89.
+ (rapport.out) (rapport.out)
+\@outlinefile=\write4
+\openout4 = `rapport.out'.
+
+\c@lstlisting=\count330
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF o
+n input line 92.
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/libertine\t1linuxbiolin
+umt-tlf.fd
+File: T1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Lin
+uxBiolinumT-TLF.
+)
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 92.
+<imgs//logo.png, id=78, 355.3275pt x 142.5325pt>
+File: imgs//logo.png Graphic file (type png)
+<use imgs//logo.png>
+Package pdftex.def Info: imgs//logo.png  used on input line 95.
+(pdftex.def)             Requested size: 142.12846pt x 57.01198pt.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/sc' will be
+(Font)              scaled to size 12.0pt on input line 97.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/sc' will be
+(Font)              scaled to size 20.74pt on input line 97.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/sc' will be
+(Font)              scaled to size 17.28pt on input line 99.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 24.88pt on input line 102.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
+(Font)              scaled to size 24.88pt on input line 102.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 107.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/sc' will be
+(Font)              scaled to size 14.4pt on input line 108.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 112
+.
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 112
+.
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
+(Font)              scaled to size 14.4pt on input line 115.
+
+[1
+
+{C:/Users/pyrow/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./imgs//logo
+.png>]
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 17.28pt on input line 128.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 17.28pt on input line 128.
+ (rapport.toc
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 2.
+)
+\tf@toc=\write5
+\openout5 = `rapport.toc'.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.129 \newpage
+               [1]
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 135.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 135.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 12.0pt on input line 142.
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--143
+
+ []
+
+[2]
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 146.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 14.4pt on input line 146.
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+
+ []
+
+
+Overfull \hbox (3.83826pt too wide) in paragraph at lines 157--159
+\T1/LinuxLibertineT-TLF/m/n/12 nombre d'opé-ra-tions dans $\U/msb/m/n/12 Z\OML/
+cmm/m/it/12 =p\U/msb/m/n/12 Z$ \T1/LinuxLibertineT-TLF/m/n/12 ef-fec-tuée par n
+os al-go-rithmes. De plus, sauf in-di-ca-tion contraire,
+ []
+
+
+Overfull \hbox (10.93091pt too wide) in paragraph at lines 157--159
+[]\T1/LinuxLibertineT-TLF/m/n/12 La com-plexité de l'al-go-rithme naïf est en $
+\OML/cmm/m/it/12 O\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n[]\OT1/cmr/m/n/12 )$ \T1/L
+inuxLibertineT-TLF/m/n/12 et ce-lui de Ka-rat-suba en $[]$.
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 174.
+See the caption package documentation for explanation.
+
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/sc' will be
+(Font)              scaled to size 12.0pt on input line 174.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 174.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 10.95pt on input line 174.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/sc' will be
+(Font)              scaled to size 10.95pt on input line 174.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 10.95pt on input line 174.
+[3]
+\c@Thm1=\count331
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/it' will be
+(Font)              scaled to size 12.0pt on input line 190.
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 218--223
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
+
+ []
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 244.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 244.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--252
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
+
+ []
+
+[6]
+<imgs//profiler_eval_malloc.png, id=165, 613.0905pt x 395.076pt>
+File: imgs//profiler_eval_malloc.png Graphic file (type png)
+<use imgs//profiler_eval_malloc.png>
+Package pdftex.def Info: imgs//profiler_eval_malloc.png  used on input line 271
+.
+(pdftex.def)             Requested size: 429.16042pt x 276.5513pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 272.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--272
+
+ []
+
+[7 <./imgs//profiler_eval_malloc.png>]
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 294.
+See the caption package documentation for explanation.
+
+[8]
+Overfull \hbox (10.16731pt too wide) in paragraph at lines 297--297
+|[]\T1/LinuxLibertineT-TLF/b/n/17.28 Implémentation de la vec-to-ri-sa-tion dan
+s la FFT avec AVX2| 
+ []
+
+
+Underfull \hbox (badness 1838) in paragraph at lines 299--300
+\T1/LinuxLibertineT-TLF/m/n/12 beau-coup plus ra-pi-de-ment qu'avec les opé-ra-
+teurs de base du pro-ces-seur que uti-li-sons
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+
+ []
+
+
+Overfull \hbox (2.20976pt too wide) in paragraph at lines 311--320
+[]\T1/LinuxLibertineT-TLF/m/n/12 Pour faire l'ad-di-tion et la sous-trac-tion m
+o-dulo, il faut sa-voir qu'AVX2 nous per-met de prendre
+ []
+
+
+Underfull \hbox (badness 3557) in paragraph at lines 311--320
+\T1/LinuxLibertineT-TLF/m/n/12 un $[][]\OML/cmm/m/it/12 m\OT1/cmr/m/n/12 256\OM
+L/cmm/m/it/12 i$ \T1/LinuxLibertineT-TLF/m/n/12 ne conte-nant que des $\OML/cmm
+/m/it/12 p$\T1/LinuxLibertineT-TLF/m/n/12 . Ceci per-met bien de faire le mo-du
+lo car, si
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--320
+
+ []
+
+[9]
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 340.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 3029) in paragraph at lines 346--348
+\T1/LinuxLibertineT-TLF/m/n/12 ef-fi-cients ($\OML/cmm/m/it/12 p[]$ \T1/LinuxLi
+bertineT-TLF/m/n/12 et $\OML/cmm/m/it/12 p[]$\T1/LinuxLibertineT-TLF/m/n/12 ). 
+Nous voyons aussi que dans les fonc-tions $\OML/cmm/m/it/12 vect[]mod[]add\OT1/
+cmr/m/n/12 ()$ \T1/LinuxLibertineT-TLF/m/n/12 et
+ []
+
+[10]
+\tcb@out=\write6
+\openout6 = `rapport.listing'.
+
+ (rapport.listing
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 6.0pt on input line 1.
+LaTeX Font Info:    Trying to load font information for TS1+LinuxLibertineT-TLF
+ on input line 1.
+
+(C:\Users\pyrow\AppData\Local\Programs\MiKTeX\tex/latex/libertine\ts1linuxliber
+tinet-tlf.fd
+File: TS1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/
+LinuxLibertineT-TLF.
+)
+LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 1.
+) [11]
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 403.
+See the caption package documentation for explanation.
+
+[12]
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 445.
+See the caption package documentation for explanation.
+
+[13]
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 475.
+See the caption package documentation for explanation.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 493.
+See the caption package documentation for explanation.
+
+[14]
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 529.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 530--535
+
+ []
+
+[15] (rapport.bbl) [16] (rapport.aux)
+Package rerunfilecheck Info: File `rapport.out' has not changed.
+(rerunfilecheck)             Checksum: 23850F8F9D323B5D8C140ED00EF7E9F2;4086.
+ ) 
+Here is how much of TeX's memory you used:
+ 30177 strings out of 478582
+ 594193 string characters out of 2844345
+ 1131201 words of memory out of 3000000
+ 47757 multiletter control sequences out of 15000+600000
+ 603738 words of font info for 112 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 83i,12n,117p,876b,1734s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/pyrow/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_
+naooyc.enc}{C:/Users/pyrow/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libert
+ine/lbtn_ki75ao.enc}{C:/Users/pyrow/AppData/Local/Programs/MiKTeX/fonts/enc/dvi
+ps/libertine/lbtn_tlukpt.enc}{C:/Users/pyrow/AppData/Local/Programs/MiKTeX/font
+s/enc/dvips/libertine/lbtn_7grukw.enc}{C:/Users/pyrow/AppData/Local/Programs/Mi
+KTeX/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{C:/Users/pyrow/AppData/Local/Pr
+ograms/MiKTeX/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{C:/Users/pyrow/AppData
+/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{C:/Users/pyro
+w/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertine/lbtn_omcwp2.enc}<C:/U
+sers/pyrow/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinBiolin
+umT.pfb><C:/Users/pyrow/AppData/Local/Programs/MiKTeX/fonts/type1/public/libert
+ine/LinBiolinumTB.pfb><C:/Users/pyrow/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/libertine/LinBiolinumTI.pfb><C:/Users/pyrow/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/libertine/LinLibertineT.pfb><C:/Users/pyrow/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineTB.pfb><C:/Users/pyro
+w/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLibertineTBI.pf
+b><C:/Users/pyrow/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/Li
+nLibertineTI.pfb><C:/Users/pyrow/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmex10.pfb><C:/Users/pyrow/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmmi10.pfb><C:/Users/pyrow/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pyrow/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pyrow/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/pyrow/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/p
+yrow/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/
+Users/pyrow/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.p
+fb><C:/Users/pyrow/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmr8.pfb><C:/Users/pyrow/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmsy10.pfb><C:/Users/pyrow/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmsy8.pfb><C:/Users/pyrow/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on rapport.pdf (17 pages, 696444 bytes).
+PDF statistics:
+ 386 PDF objects out of 1000 (max. 8388607)
+ 92 named destinations out of 1000 (max. 500000)
+ 167 words of extra memory for PDF output out of 10000 (max. 10000000)
+

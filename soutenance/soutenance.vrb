@@ -1,0 +1,30 @@
+\frametitle{Opérations modulo $p$ avec AVX2}
+
+\begin{lstlisting}
+void vect_mod_add(Uint *res1, Uint *tab1, Uint *tab2) {
+    __m256i p = _mm256_set1_epi32(NB_P);
+    __m256i a = _mm256_loadu_si256((__m256i *) tab1);
+    __m256i b = _mm256_loadu_si256((__m256i *) tab2);
+    __m256i x = _mm256_add_epi32(a, b);
+    __m256i result = _mm256_min_epu32(x, _mm256_sub_epi32(x, p));
+    _mm256_storeu_si256((__m256i *) res1, result);
+}
+\end{lstlisting}
+
+Multiplication : Algorithme de réduction de Barrett
+
+\begin{center}
+\begin{tabular}{||c c c||}
+\hline
+Opération & Sans AVX2 & Avec AVX2 \\
+\hline\hline
+Addition & 0.012610 & 0.006697 \\
+\hline
+Soustraction & 0.014247 & 0.007139 \\
+\hline
+Multiplication & 0.015053 & 0.007497 \\
+\hline
+\end{tabular}
+\end{center}
+{\captionof{table}{Temps des opérations d'addition, soustraction et multiplication sans et avec AVX2.}}
+
